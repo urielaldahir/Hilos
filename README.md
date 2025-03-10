@@ -11,4 +11,6 @@ o	Cuando el usuario presiona =, se crea un nuevo hilo con threading.Thread().
 o	Este hilo llama a calculate_expression(expression), evitando que la interfaz de Tkinter se congele.
 o	Se usa .start() para ejecutar el cálculo en segundo plano.
 
+<img src="https://github.com/user-attachments/assets/24cf0198-8f5a-4850-9aaf-2ea8343cf65d" width="300" />
+
 
